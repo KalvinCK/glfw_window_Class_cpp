@@ -1,4 +1,4 @@
-# glfw_window_Class_cpp
+# GLFW window class configura pronta para usar com opengl ou vulkan 
 
 ## Dependências 
 * GLM
