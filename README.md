@@ -1,5 +1,5 @@
 # glfw_window_Class_cpp
 
-## dempendências 
+## Dependências 
 * GLM
 * glfw
